@@ -1,2 +1,4 @@
 #!/bin/bash
-cd home 
+pwd
+source ./2-bring_me_hom
+pwd 
